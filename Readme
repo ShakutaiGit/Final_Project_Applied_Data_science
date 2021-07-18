@@ -1,4 +1,7 @@
 
-3 algorithems as asked
+3 algorithems has beeen provided by their names
 report 
 results 
+2 to  run the codes u need to enter the database name in the line that we load it.  and then play each block untill the end 
+when the run will be finish an excel doc will be downloaded to your computer with the results.
+we strongly advice to trun this project on gpu or very strong resource beacause the running take time .
